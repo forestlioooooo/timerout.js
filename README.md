@@ -1,6 +1,9 @@
 # timerout.js
 检测超时，以保证最低延迟时间
 
+敬告:
+
+> 代码已经被合并入 [**waiter.js**](https://github.com/GENGSHUANGs/waiter.js) 
 
 usage:
 ```javascript
